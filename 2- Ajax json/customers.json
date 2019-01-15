@@ -1,0 +1,22 @@
+[
+
+    {
+        "id" : 1,
+        "name" : "John Doe",
+        "company" : "Dev-tricks",
+        "phone" : "555-444-6666"
+    },
+    {
+        "id" : 2,
+        "name" : "Scott Smith",
+        "company" : "Google",
+        "phone" : "555-888-5555"
+    },
+    {
+        "id" : 1,
+        "name" : "Steve Slang",
+        "company" : "Facebook",
+        "phone" : "555-111-4444"
+    }
+
+]
